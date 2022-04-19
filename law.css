@@ -4,6 +4,8 @@
   
 body {
     background-color: white;
+    padding: 0px;
+    margin: 0px;
 }
 
 .bg {
@@ -114,4 +116,8 @@ h3 {
 }
 .cool {
     color:rgb(228, 97, 97)
+}
+img {
+    padding: 0px;
+    margin: 0px;
 }
